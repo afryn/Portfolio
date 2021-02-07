@@ -130,7 +130,7 @@ p,input{
 #chat{
     padding: 15px;
     overflow-y: scroll;
-    height: 540px;
+    height: 486px;
 }
 .msg{
     display: flex;
