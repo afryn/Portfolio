@@ -84,14 +84,14 @@
     font-size: 1.3rem;
     font-weight: 600;
 }
-/* ==== HOME === */
+/* ==== HOME =====/ */
 .bg-text-1{
-    top: 6%;
+    top: 7%;
     font-size: 18vw;
 }
 .bg-text-2{
     font-size: 18vw;
-    top: 6%;
+    top: 7%;
 
 }
 #home{
@@ -118,10 +118,6 @@
 }
 #email a{
     font-size: 1.6rem;
-}
-.bg-text-1{
-    top: 6%;
-    font-size: 18vw;
 }
 .social-links {
     height: 40px;
